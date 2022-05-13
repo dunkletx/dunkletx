@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dunkletx
+- 👋 Hello, I’m @dunkletx
 - 🐍 I’m interested in QA testing using python, robot framework, jenkins, ansible and vagrant.
 - ☁️ Test experience with multi Hypervisor setups. Openstack/VMware vCD cloudlet platforms, docker & k8s cluster/app instances.
 - 📫 How to reach me - dunkletx@gmail.com
